@@ -1,0 +1,14 @@
+body {
+    margin: auto;
+    padding: 2px;
+    font-style: italic;
+    background-color: coral;
+   
+}
+.static{
+    position: static;
+    left: 200px;
+    right: 200px;
+    
+}
+
